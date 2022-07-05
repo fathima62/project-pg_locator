@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-s+@f0)t2o(psga+i=v0rkpzxyg$x&t7e-q!(s64=$_vf6_munk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pglocator.herokuapp.com']
 
 
 # Application definition
